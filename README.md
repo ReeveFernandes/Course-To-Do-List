@@ -1,6 +1,7 @@
 # Course Goal Tracker
 
-![Course Goal Tracker](https://course-to-do.onrender.com/assets/images/logo.png)
+![Screen Preview](https://github.com/ReeveFernandes/Course-To-Do-List/assets/92554845/83cd80d0-15f3-46c3-9b9a-9b476357034b)
+
 
 Course Goal Tracker is a web application designed to help you track your goals and tasks throughout your courses. Whether you're a student or a professional taking online courses, this app provides a simple and intuitive interface to manage your goals effectively.
 
